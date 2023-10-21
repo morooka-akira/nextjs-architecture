@@ -1,0 +1,13 @@
+{
+  "name": "nextjs-architecture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/morooka-akira/nextjs-architecture.git",
+  "author": "Heiya <morooka.akira.inon29@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.5.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
